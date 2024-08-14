@@ -9,11 +9,11 @@ const products = [
         colors: [
             {
                 code: "black",
-                img: "../image/air.png"
+                img: "image/air.png"
             },
             {
                 code: "darkblue",
-                img: "../image/air2.png"
+                img: "image/air2.png"
             },
         ],
     },
